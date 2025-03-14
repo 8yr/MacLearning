@@ -32,3 +32,5 @@ Advantages: It helps improve the balance between classes, preventing the model f
 Stratified K-Fold Cross-Validation:
 Concept: A technique to evaluate the model by splitting the data into multiple folds, ensuring that each fold has a balanced distribution of classes.
 Advantages: It helps evaluate the model more accurately, as it tests the model across multiple data splits rather than just one.
+
+![2025-03-14_152906](https://github.com/user-attachments/assets/fc42e15a-112a-4b69-a6f5-467a9a71e1cb)
