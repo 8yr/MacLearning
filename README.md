@@ -1,8 +1,7 @@
 
 # MacLearning
 
-Document classification using SVM, SMOTE, and TF-IDF
-
+Document Classification Using SVM, SMOTE, and TF-IDF: A Study Based on the National Center for Archives & Records of Saudi Arabia
 # MacLeModel Concept
 
 The developed model aims to classify documents into three main categories: Administrative, Financial, and Specialized. 
